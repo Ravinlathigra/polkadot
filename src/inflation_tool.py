@@ -2,7 +2,7 @@ import streamlit as st
 import plotly
 from tool_staking import * 
 
-st.title("Visualizing the Relationship Between Inflation and Annaul Yield")
+st.title("Visualizing the Relationship Between Inflation and Annual Yield")
 
 st.markdown("---")
 
